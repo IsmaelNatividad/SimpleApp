@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h2>Little aplication</h2>
+		<h2>Little aplication change</h2>
 	<ul>
 		<li> <a href="create.jsp" >Create animal</a></li>
 		<li> <a href="read.jsp" >Read animal</a></li>
