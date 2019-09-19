@@ -8,5 +8,13 @@
 </head>
 <body>
 
+		<ul>
+	<li> <a href="propiedades/AltaPropiedad.jsp" >Alta</a></li>
+	<li> <a href="propiedades/bajapropiedad.jsp" >Baja </a></li>
+	<li> <a href="propiedades/modificacionpropiedad.jsp" >Modificacion</a></li>
+		</ul>
+
+
+
 </body>
 </html>

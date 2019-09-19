@@ -8,5 +8,11 @@
 </head>
 <body>
 
+		<ul>
+	<li> <a href="ventas/altaventa.jsp" >Alta</a></li>
+	<li> <a href="ventas/bajaventa.jsp" >Baja </a></li>
+	<li> <a href="ventas/modificacionventa.jsp" >Modificacion</a></li>
+		</ul>
+
 </body>
 </html>

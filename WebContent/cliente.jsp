@@ -9,8 +9,8 @@
 <body>
 		<ul>
 	<li> <a href="cliente/alta.jsp" >Alta</a></li>
-	<li> <a href="cliente/alta.jsp" >Baja </a></li>
-	<li> <a href="cliente/alta.jsp" >Modificacion</a></li>
+	<li> <a href="cliente/baja.jsp" >Baja </a></li>
+	<li> <a href="cliente/modificacion.jsp" >Modificacion</a></li>
 		</ul>
 
 </body>
